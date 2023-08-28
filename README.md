@@ -19,6 +19,9 @@ This repo is for my personal reference.
 * **Lab**
   * [NLP Lec2 Lab](https://github.com/MohamedBadwy360/Coursat.ai-DL-NLP/blob/main/Lec%202%20Text%20preprocessing%20pipeline/NLP_Lec_2_Lab.ipynb)
 
+* **Assignment**
+  * [Assginment BOW Model](https://github.com/MohamedBadwy360/Coursat.ai-DL-NLP/blob/main/Lec%202%20Text%20preprocessing%20pipeline/Lec2_Assignment.ipynb): Bag of Word Model on Jigsaw Toxic Classification Data.
+
 ## `Lec 3: Word Embeddings`
 
 * **Lec Notebook**
