@@ -29,3 +29,8 @@ This repo is for my personal reference.
 
 * **Lab**
   * [NLP Lec3 Lab](https://github.com/MohamedBadwy360/Coursat.ai-DL-NLP/blob/main/Lec%203%20Word%20Embeddings/NLP_Lec_3__Lab.ipynb)
+
+## `Lec 4: Recommendation Systems`
+
+* **Lec Notebook**
+  * [Recommendation Systems](https://github.com/MohamedBadwy360/Coursat.ai-DL-NLP/blob/main/Lec%204%20Recommendation%20Systems/Recommendation%20Systems.ipynb)
